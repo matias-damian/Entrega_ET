@@ -15,6 +15,7 @@ productos = {
     "UWU131HD": ["Dell", 15.6, "8GB", "DD", "1T", "AMD Ryzen 3", "Nvidia GTX1050"]
 }
 
+#El stock de cada producto por modelo.
 stock = {
     "8475HD": [387990, 10],
     "2175HD": [327990, 4],
